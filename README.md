@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pre-work-studyguide
 # <Your-Project-Title>
 
@@ -24,6 +23,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-=======
-# pre-work-studyguide
->>>>>>> 18a3a59caa4b1d5a0790377ce4ef4c6244bf3bd5
